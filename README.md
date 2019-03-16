@@ -1,5 +1,4 @@
-# ZoHo-Invoice-Recipe-for-Franz
-A recipe for accessing ZoHo Invoice in Franz
+# ZoHo Invoice recipe for Franz
 
 ## Installation
 1. To install a new integration, download or clone the repo
