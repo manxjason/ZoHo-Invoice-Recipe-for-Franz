@@ -1,0 +1,12 @@
+{
+  "id": "zohoinvoice",
+  "name": "ZohoInvoice",
+  "version": "1.0.0",
+  "description": "ZohoInvoice",
+  "main": "index.js",
+  "author": "Jason Callister <jasoncallister@hotmail.co.uk>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://invoice.zoho.com/app#/home/dashboard"
+  }
+}
